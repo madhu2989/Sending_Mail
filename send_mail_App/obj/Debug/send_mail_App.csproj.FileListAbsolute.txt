@@ -1,0 +1,13 @@
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\bin\Debug\send_mail_App.exe.config
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\bin\Debug\send_mail_App.exe
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\bin\Debug\send_mail_App.pdb
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.csprojResolveAssemblyReference.cache
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.Form1.resources
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.Properties.Resources.resources
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.csproj.GenerateResource.cache
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.csproj.CoreCompileInputs.cache
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.exe
+C:\Users\manojnaik\source\repos\send_mail_App\send_mail_App\obj\Debug\send_mail_App.pdb
+C:\Users\Manju\Documents\Maddy Apps\send_mail_App\send_mail_App\bin\Debug\send_mail_App.exe.config
+C:\Users\Manju\Documents\Maddy Apps\send_mail_App\send_mail_App\obj\Debug\send_mail_App.exe
+C:\Users\Manju\Documents\Maddy Apps\send_mail_App\send_mail_App\obj\Debug\send_mail_App.pdb
